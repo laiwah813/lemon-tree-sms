@@ -1,13 +1,5 @@
 # Lemon Tree Sushi & Ramen Website
 
-Upload these files to the root of the existing `lemon-tree-sms` GitHub repository. Replace the existing HTML and CSS files, then commit the changes. GitHub Pages will redeploy automatically.
+Upload all files and the complete `assets` folder to the root of your GitHub repository.
 
-Included pages:
-- index.html
-- contact.html
-- sms-consent.html
-- privacy.html
-- terms.html
-- styles.css
-
-Contact email used throughout: lemontreesushiramen@gmail.com
+All pages use the same header, SMS disclosure band, and footer.
