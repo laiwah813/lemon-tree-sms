@@ -1,10 +1,13 @@
-# Lemon Tree SMS Compliance Website
+# Lemon Tree Sushi & Ramen Website
 
-Upload all files to the root of a public GitHub repository and enable GitHub Pages from the main branch.
+Upload these files to the root of the existing `lemon-tree-sms` GitHub repository. Replace the existing HTML and CSS files, then commit the changes. GitHub Pages will redeploy automatically.
 
-Twilio URLs:
-- Privacy: /privacy.html
-- Terms: /terms.html
-- Consent flow: /sms-consent.html
+Included pages:
+- index.html
+- contact.html
+- sms-consent.html
+- privacy.html
+- terms.html
+- styles.css
 
-Before resubmitting, ensure the AI actually asks for verbal SMS consent and only sends a customer SMS when the answer is yes.
+Contact email used throughout: lemontreesushiramen@gmail.com
