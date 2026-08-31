@@ -1,20 +1,25 @@
 # Lemon Tree Sushi & Ramen Website v5
 
-This regenerated package includes all previous restaurant information updates plus the latest navigation and footer changes.
+All website files and images are stored at the same root level.
 
-## Latest updates
-- Added **Order Online** between **Home** and **SMS Program** in the top menu on all pages.
-- Changed the homepage **View Menu** button to **Order Online**.
-- Replaced the footer **LT** circle with the supplied `logo.png`.
-- Added **Order Online** between **Home** and **SMS Program** in footer Quick Links.
-- Removed **View Menu** from footer Quick Links.
-- All Order Online links use the existing online ordering page.
+index.html
+contact.html
+privacy.html
+sms-consent.html
+terms.html
+styles.css
+README.md
+logo.png
+sushi-ramen.jpg
+nigiri-ramen.jpg
 
-## Previous updates retained
-- Store hours updated for all seven days.
-- Phone number updated to **(951) 563-0099**.
-- Header uses the supplied Lemon Tree Sushi & Ramen logo.
-- Website images are organized inside the `assets` folder.
+All previous v5 website changes are retained.
+Upload all of these files directly to the root of your website/GitHub repository.
 
-## Deployment
-Upload all files and the complete `assets` folder to the root of the existing website/GitHub repository.
+
+## Corrected layout update
+- Reduced header logo size for desktop.
+- Prevented navigation and phone number from wrapping.
+- Changed the mobile/hamburger breakpoint to 1100px to avoid cramped navigation.
+- Forced restaurant hours to display one day per row with aligned day/time columns.
+- Reduced footer logo size.
