@@ -33,3 +33,10 @@ Upload all of these files directly to the root of your website/GitHub repository
 - Reduced feature bar and section spacing.
 - Kept responsive/mobile behavior intact.
 - Designed so the site feels properly proportioned at 100% browser zoom.
+
+
+## Desktop scale correction v3
+- Tuned the desktop layout to visually match the user's preferred 67% Chrome-zoom appearance while the browser stays at 100%.
+- Reduced desktop container width, header/logo/navigation, hero copy, restaurant info card, feature bar, buttons, footer, and spacing proportionally.
+- Desktop navigation stays visible down to 900px; below that it switches to the mobile hamburger menu.
+- Mobile styling remains responsive and is not globally zoomed.
