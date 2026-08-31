@@ -23,3 +23,13 @@ Upload all of these files directly to the root of your website/GitHub repository
 - Changed the mobile/hamburger breakpoint to 1100px to avoid cramped navigation.
 - Forced restaurant hours to display one day per row with aligned day/time columns.
 - Reduced footer logo size.
+
+
+## Desktop scale correction v2
+- Reduced overall desktop content width.
+- Reduced header height, logo size, navigation text, and call button.
+- Reduced hero height, headline size, spacing, and button size.
+- Reduced restaurant information card size and row spacing.
+- Reduced feature bar and section spacing.
+- Kept responsive/mobile behavior intact.
+- Designed so the site feels properly proportioned at 100% browser zoom.
