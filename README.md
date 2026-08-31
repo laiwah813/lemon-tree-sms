@@ -1,5 +1,17 @@
-# Lemon Tree Sushi & Ramen Website
+# Lemon Tree Sushi & Ramen Website v5
 
-Upload all files and the complete `assets` folder to the root of your GitHub repository.
+All website files and images are stored at the same root level.
 
-All pages use the same header, SMS disclosure band, and footer.
+index.html
+contact.html
+privacy.html
+sms-consent.html
+terms.html
+styles.css
+README.md
+logo.png
+sushi-ramen.jpg
+nigiri-ramen.jpg
+
+All previous v5 website changes are retained.
+Upload all of these files directly to the root of your website/GitHub repository.
